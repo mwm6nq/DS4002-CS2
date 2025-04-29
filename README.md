@@ -14,7 +14,7 @@ The necessary data is located in the "data" folder within the "technical materia
 ### Articles
 This includes two motivational articles about the background of higher education institutions' impact on college towns and an article explaining the technical work of the CPI and why it was used in our code for better analysis. 
 
-## Steps to compelete this case study 
+## Steps to Complete the Case Study in Jupyter Lab
 To begin, open a new folder in Jupyter Lab called “Charlottesville Housing” and create a new Jupyter Notebook using Python 3.10. In the first cell, import the necessary libraries for the project: pandas, numpy, matplotlib.pyplot for data manipulation and visualization, and tools from sklearn, including LinearRegression, r2_score, train_test_split, tree, and RandomForestRegressor for modeling.
 
 Next, gather the data files. Download Real_Estate_(Residential_Details).csv and Real_Estate_(Sales).csv from the https://opendata.charlottesville.org/datasets, or locate them in the “data” folder inside the “Technical Materials” section of the repo. Create a subfolder called “time data” inside your “Charlottesville Housing” folder and upload both CSV files there. Also, download the CPI.csv file from the U.S. Bureau of Labor Statistics and the UVA Enrollment Data.csv from the UVA Data Digest. Upload these two files into the main “Charlottesville Housing” folder. Both are also available in the same “data” folder in the repo.
